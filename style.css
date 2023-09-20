@@ -79,3 +79,10 @@ h6 {
   --fw-regular: 400;
   --fw-semibold: 600;
 }
+
+body {
+  width: auto;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
